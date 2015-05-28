@@ -22,3 +22,4 @@ To install vagrant see https://github.com/webapp-builders/groundwork
 
 ### Phase 3 - Add Bootstrap - [Issue #3](https://github.com/LARailsLearners/_first_app_instructions/labels/HOMEWORK)
 
+Bootstrap is a framework that makes it easy for a developer to create a nice design for a website or web application. There are predefined css classes for creating common components such as widgets, typography elements, lists, forms, and more. The framework also provides Javascript which makes it easy to create things like modals, popovers, scrollspies, accordions, and more. Their documentation is very thorough, providing example code for most, if not all of the components that Bootstrap provides.
