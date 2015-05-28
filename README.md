@@ -20,4 +20,5 @@ To install vagrant see https://github.com/webapp-builders/groundwork
 
 -----
 
-### Phase 3 - Add Bootstrap - [Issue #2]
+### Phase 3 - Add Bootstrap - [Issue #3](https://github.com/LARailsLearners/_first_app_instructions/labels/HOMEWORK)
+
