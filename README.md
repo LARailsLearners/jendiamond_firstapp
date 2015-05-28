@@ -18,4 +18,6 @@ To install vagrant see https://github.com/webapp-builders/groundwork
 
 ### Phase 2 - Add Authentication with Devise - [Issue #2](https://github.com/LARailsLearners/_first_app_instructions/issues/2)
 
+-----
 
+### Phase 3 - Add Bootstrap - [Issue #2]
