@@ -2,11 +2,11 @@
 
 ### [Specific Directions for each Phase.](https://gist.github.com/jendiamond/f6432d1a102b2ca6a429)
 
-### Phase One
+### Phase One - The Beginning - [Issue #6](https://github.com/LARailsLearners/_first_app_instructions/issues/6)
 
 ##### Create a New Rails App using a Postgres database
 
-##### Create a User Model that has the fields [Issue #6](https://github.com/LARailsLearners/_first_app_instructions/issues/6)
+##### Create a User Model that has the fields 
 
 + first_name
 + last_name
