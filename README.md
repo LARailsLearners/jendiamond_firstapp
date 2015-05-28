@@ -1,6 +1,6 @@
 # LA Rails Learners - First App
 
-## Specific Directions for each Phase can be found [on this Gist.](https://gist.github.com/jendiamond/f6432d1a102b2ca6a429)
+### [Specific Directions for each Phase.](https://gist.github.com/jendiamond/f6432d1a102b2ca6a429)
 
 ### Phase One
 
