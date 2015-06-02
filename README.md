@@ -18,8 +18,17 @@ To install vagrant see https://github.com/webapp-builders/groundwork
 
 ### Phase 2 - Add Authentication with Devise - [Issue #2](https://github.com/LARailsLearners/_first_app_instructions/issues/2)
 
+- Don't forget to take the time to UNDERSTAND Devise.  
+- Understand Authentication broadly, but equally important, make sure you learn some of the basics of Devise, it's most important methods, and how you would use them across *other models*.
+
 -----
 
 ### Phase 3 - Add Bootstrap - [Issue #3](https://github.com/LARailsLearners/_first_app_instructions/labels/HOMEWORK)
 
+(or Foundation, or some other CSS framework)  
 Bootstrap is a framework that makes it easy for a developer to create a nice design for a website or web application. There are predefined css classes for creating common components such as widgets, typography elements, lists, forms, and more. The framework also provides Javascript which makes it easy to create things like modals, popovers, scrollspies, accordions, and more. Their documentation is very thorough, providing example code for most, if not all of the components that Bootstrap provides.
+
+take the time to learn:
+- What Bootstrap gives you.  All the layout options that come included are awesome and make building functional websites (will buttons, Navbars, Dropdowns, icons, and labels, etc.) pretty damn good looking and easy it build.  Get a sense of all the Lego pieces that come in the box! 
+- Understand the logic behind the "gird system" and how it help you organize your "views," so the way Bootstrap classes lays things out, makes sense to you. 
+
