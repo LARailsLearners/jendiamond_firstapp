@@ -177,6 +177,16 @@ Get the most current version here: https://rubygems.org/gems/devise/versions/3.4
   + migrate the database
   + create a default user and admin
 
+add this line:
+ `before_filter :authenticate_user!`
+
+    class ApplicationController < ActionController::Base
+      # Prevent CSRF attacks by raising an exception.
+      # For APIs, you may want to use :null_session instead.
+      protect_from_forgery with: :exception
+      before_filter :authenticate_user!
+    end
+
 -----
 
 ## Phase 3 - Add Bootstrap - [Issue #3](https://github.com/LARailsLearners/_first_app_instructions/labels/HOMEWORK)
